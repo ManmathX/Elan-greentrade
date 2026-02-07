@@ -1,5 +1,4 @@
 # GreenTrade - Mini Supplier-Product Management System
-ok
 A production-ready MERN stack application for managing suppliers and eco-friendly products.
 ## 🚀 Features
 
